@@ -9,7 +9,7 @@
     specific language governing permissions and limitations under the License.
 */
 
-#include <Porcupine_ES.h>
+#include <Porcupine_DE.h>
 
 #include "params.h"
 
